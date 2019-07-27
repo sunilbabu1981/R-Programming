@@ -1,0 +1,6 @@
+my.name <- readline("What is your name?")
+my.age <- readline("What is your age?")
+
+print(paste("Hi",my.name,"your age after 1 year will be", my.age))
+
+print(R.version.string)
